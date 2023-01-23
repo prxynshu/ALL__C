@@ -1,5 +1,4 @@
 #include <stdio.h>
-#include <conio.h> //define PI 3.141
 
 int main()
 {
